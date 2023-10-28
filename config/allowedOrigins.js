@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'technotes-api1.onrender.com'
+    'https://technotes-api1.onrender.com'
     // 'https://ruslanfeldmantechnotes.onrender.com'
 ]
 
